@@ -1,5 +1,5 @@
 
-# Day 01 – Salesforce Developer Training
+# Day 1 – Salesforce Developer Training
 
 ## Technology
 
